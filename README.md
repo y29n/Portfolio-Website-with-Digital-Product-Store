@@ -111,3 +111,5 @@ npm run lint
 
 The goal of this project is to build a portfolio that is not only visually appealing, but also functional and commercially useful.  
 It is a portfolio website that can actively support digital product sales, making it both a showcase platform and a working business tool.
+
+Demo Soon
